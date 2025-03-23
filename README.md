@@ -68,8 +68,7 @@ https://github.com/user-attachments/assets/17f1bf54-076a-4c0b-8f6e-ee1781664724
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+his project is Open Source—contributions are welcome! Fork the repository, suggest changes, or report issues to make it even better.
 ---
 
 ## Contact
