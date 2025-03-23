@@ -12,7 +12,7 @@ This Chrome extension helps automate tasks and enhance the user experience for G
 - Helps users monitor their progress in real-time while solving tasks.
 
 ## Installation
-[![Open Extension](https://img.shields.io/badge/Download-Extension-orange?style=for-the-badge)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_youtube_Solution.zip)  
+[![Open Extension](https://img.shields.io/badge/Download-Extension-orange?style=for-the-badge)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_Extention.zip)  
 Click the download button to get the extension file and Extract the files Before use.
 
 1. Enable **Developer Mode** in the Chrome Extensions page (`chrome://extensions`).
