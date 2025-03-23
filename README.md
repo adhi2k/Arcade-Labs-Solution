@@ -24,8 +24,7 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 ## Usage
 1. Navigate to any Arcade Labs page sample : [App Engine: Qwik Start - PHP](https://www.cloudskillsboost.google/course_templates/671/labs/461534).
 2. If you want turn off and turn on **Go to ``chrome://extensions/` below Arcade Labs Solution turn on and turn off.
- ![image](https://github.com/user-attachments/assets/3f5e5d26-edc3-4d62-88d8-fc8a5e24443f) 
-
+![image](https://github.com/user-attachments/assets/18458433-18ff-4f8e-a68f-6b2b9c128640)
 3. Activate the extension by clicking on the icon in the Chrome toolbar.
 4a. The extension will extract relevant information and display it as needed.
 
@@ -45,3 +44,36 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 2. Create a new branch:
    ```bash
    git checkout -b feature-branch
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+   
+4. Push to the branch:
+   ```bash
+   git push origin feature-branch
+   ```
+5. Submit a pull request.
+---
+
+##License
+This project is licensed under the MIT License. See the LICENSE file for details.
+---
+
+##Contact
+For any questions or feedback, feel free to reach out:
+
+Email: adhithya362003@gmail.com
+
+GitHub: adhi2k
+
+
+### Changes Made:
+1. Improved formatting for better readability.
+2. Fixed broken links and ensured correct hyperlink syntax.
+3. Added appropriate line breaks for better structure and clarity.
+4. Corrected typos and grammatical errors.
+
+You can copy this and use it directly in your repository's `README.md`.
+
