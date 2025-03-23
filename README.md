@@ -68,7 +68,8 @@ https://github.com/user-attachments/assets/17f1bf54-076a-4c0b-8f6e-ee1781664724
 
 ## License
 
-his project is Open Source—contributions are welcome! Fork the repository, suggest changes, or report issues to make it even better.
+This project is Open Source—contributions are welcome! Fork the repository, suggest changes, or report issues to make it even better.
+
 ---
 
 ## Contact
