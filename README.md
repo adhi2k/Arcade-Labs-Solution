@@ -56,17 +56,18 @@ This Chrome extension helps automate tasks and enhance the user experience for A
    ```
 5. Submit a pull request.
 ---
-
 ##License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 ---
 
 ##Contact
 For any questions or feedback, feel free to reach out:
 
-Email: adhithya362003@gmail.com
+Email: [adhithya362003@gmail.com](mailto:adhithya362003@gmail.com)
 
-GitHub: adhi2k
+GitHub: [adhi2k](https://github.com/adhi2k)
 
 
 ### Changes Made:
