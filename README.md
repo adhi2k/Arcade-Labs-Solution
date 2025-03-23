@@ -14,7 +14,7 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 ---
 
 ## Installation
-[![Download Extension](https://img.shields.io/badge/Download-Extension-orange?style=for-the-badge)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_youtube_Solution.zip)  
+[![Download Extension](https://img.shields.io/badge/Download-Extension-orange?style=for-the-badge)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_Extention.zip)  
 **Click the download button to get the extension file and exract the file**
 
 1. Enable **Developer Mode** in Chrome (go to `chrome://extensions/` and toggle the switch in the top-right corner).
