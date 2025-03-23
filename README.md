@@ -1,4 +1,4 @@
-# Arcade Labs Solution ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# Arcade Labs Solution [directly from Google](https://cloud.google.com/icons)
 
 
 
