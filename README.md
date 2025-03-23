@@ -31,8 +31,6 @@ https://github.com/user-attachments/assets/17f1bf54-076a-4c0b-8f6e-ee1781664724
 1. Navigate to any Arcade Labs page sample : [App Engine: Qwik Start - PHP](https://www.cloudskillsboost.google/course_templates/671/labs/461534).
 2. If you want turn off and turn on **Go to `chrome://extensions/` below Arcade Labs Solution turn on and turn off.
 ![image](https://github.com/user-attachments/assets/18458433-18ff-4f8e-a68f-6b2b9c128640)
-3. Activate the extension by clicking on the icon in the Chrome toolbar.
-4a. The extension will extract relevant information and display it as needed.
 
 ---
 
