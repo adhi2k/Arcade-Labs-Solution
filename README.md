@@ -8,7 +8,7 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 - Lightweight and easy to use.
 
 ## Installation
-[![Open Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)]([https://chrome.google.com/webstore/](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_youtube_Solution.zip)) 
+[![Open Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_youtube_Solution.zip)
 Enable Developer Mode in the top right corner.
 
 Click Load unpacked and select the folder containing this project.
