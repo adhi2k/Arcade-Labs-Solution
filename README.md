@@ -74,10 +74,4 @@ Email: [adhithya362003@gmail.com](mailto:adhithya362003@gmail.com)
 GitHub: [adhi2k](https://github.com/adhi2k)
 
 
-### Changes Made:
-1. Improved formatting for better readability.
-2. Fixed broken links and ensured correct hyperlink syntax.
-3. Added appropriate line breaks for better structure and clarity.
-4. Corrected typos and grammatical errors.
-
 
