@@ -80,5 +80,4 @@ GitHub: [adhi2k](https://github.com/adhi2k)
 3. Added appropriate line breaks for better structure and clarity.
 4. Corrected typos and grammatical errors.
 
-You can copy this and use it directly in your repository's `README.md`.
 
