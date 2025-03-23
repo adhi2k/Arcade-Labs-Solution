@@ -1,4 +1,5 @@
-# Arcade Labs Solution
+# Arcade Labs Solution![icon1](https://github.com/user-attachments/assets/fc8ad506-4aeb-4a1b-965e-70c8d6eca231)
+
 
 This Chrome extension helps automate tasks and enhance the user experience for Arcade Labs. It interacts with specific elements on web pages to simplify the solution process.
 
