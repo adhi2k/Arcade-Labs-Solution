@@ -55,14 +55,18 @@ This Chrome extension helps automate tasks and enhance the user experience for A
    git push origin feature-branch
    ```
 5. Submit a pull request.
+
+   
 ---
-##License
+
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-##Contact
+## Contact
 For any questions or feedback, feel free to reach out:
 
 Email: [adhithya362003@gmail.com](mailto:adhithya362003@gmail.com)
