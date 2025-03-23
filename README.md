@@ -1,4 +1,4 @@
-# Arcade Labs Solution [<img alt="Google Cloud Logo" src="/docs/favicon.svg" height="96" align="right"/>](https://cloud.google.com/icons)
+# Arcade Labs Solution [<img alt="Google Cloud Logo" src="/Image/favicon.svg" height="96" align="right"/>](https://cloud.google.com/icons)
 
 
 
