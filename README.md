@@ -23,8 +23,11 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 
 ## Usage
 1. Navigate to any Arcade Labs page sample : [App Engine: Qwik Start - PHP](https://www.cloudskillsboost.google/course_templates/671/labs/461534).
-2. Activate the extension by clicking on the icon in the Chrome toolbar.
-3. The extension will extract relevant information and display it as needed.
+2. If you want turn off and turn on **Go to ``chrome://extensions/` below Arcade Labs Solution turn on and turn off.
+ ![image](https://github.com/user-attachments/assets/3f5e5d26-edc3-4d62-88d8-fc8a5e24443f) 
+
+3. Activate the extension by clicking on the icon in the Chrome toolbar.
+4a. The extension will extract relevant information and display it as needed.
 
 ---
 
