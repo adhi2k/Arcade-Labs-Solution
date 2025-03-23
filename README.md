@@ -13,7 +13,7 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 
 ## Installation
 [![Download Extension](https://img.shields.io/badge/Download-Extension-orange?style=for-the-badge)](https://github.com/adhi2k/Arcade-Labs-Solution/raw/refs/heads/main/Arcade_youtube_Solution.zip)  
-**Click the download button to get the extension file.**
+**Click the download button to get the extension file and exract the file **
 
 1. Enable **Developer Mode** in Chrome (go to `chrome://extensions/` and toggle the switch in the top-right corner).
 2. Click **Load Unpacked** and select the folder containing this project.
@@ -22,7 +22,7 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 ---
 
 ## Usage
-1. Navigate to a supported Arcade Labs page.
+1. Navigate to any Arcade Labs page sample :(App Engine: Qwik Start - PHP)[https://www.cloudskillsboost.google/course_templates/671/labs/461534].
 2. Activate the extension by clicking on the icon in the Chrome toolbar.
 3. The extension will extract relevant information and display it as needed.
 
