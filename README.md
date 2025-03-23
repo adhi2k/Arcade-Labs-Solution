@@ -19,6 +19,12 @@ This Chrome extension helps automate tasks and enhance the user experience for A
 2. Click **Load Unpacked** and select the folder containing this project.
 3. The extension is now ready to use!
 
+   ## Installation Video
+
+
+https://github.com/user-attachments/assets/17f1bf54-076a-4c0b-8f6e-ee1781664724
+
+
 ---
 
 ## Usage
