@@ -19,6 +19,13 @@ Click the download button to get the extension file and Extract the files Before
 2. Click **Load unpacked** and select the folders containing this project.
 3. The extension is now ready to use.
 
+## Installation Video
+
+https://github.com/user-attachments/assets/caf172f0-abc0-4a07-b44f-31f48542d5c1
+
+
+
+
 ## Usage
 1. **For YouTube Solutions**: It will auto-detect the lab title and fetch relevant solution videos.
 2. **For Progress Tracking**: The progress bar will automatically display your completion status as you work through the labs.
