@@ -55,8 +55,7 @@ We welcome contributions! Here's how you can help:
    ```
 5. Submit a pull request.
 
-## License
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+
 
 ## Contact
 For any questions or feedback, feel free to reach out:  
@@ -65,6 +64,8 @@ For any questions or feedback, feel free to reach out:
 Email: [adhithya362003@gmail.com](mailto:adhithya362003@gmail.com)
 
 GitHub: [adhi2k](https://github.com/adhi2k)
+
 ---
 
-Let me know if you'd like to refine this further!
+## License
+This project is licensed under the **MIT License**. See the LICENSE file for details.
