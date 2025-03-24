@@ -68,4 +68,5 @@ GitHub: [adhi2k](https://github.com/adhi2k)
 ---
 
 ## License
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+
+This project is Open Source—contributions are welcome! Fork the repository, suggest changes, or report issues to make it even better.
